@@ -236,4 +236,4 @@ This repository serves as the official landing page for Frostbow Home Inventory.
 **Get the most recent version of Frostbow Home Inventory today!**
 
 ---
-**Last updated:** 2026-09-12 23:47:26 UTC
+**Last updated:** 2026-09-13 03:31:41 UTC
